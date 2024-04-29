@@ -1,0 +1,9 @@
+#general
+node_modules/
+dist/
+public/
+build/
+package-lock.json
+bin/
+*.egg-info/
+__pycache__/
